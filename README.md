@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**cats00kie/cats00kie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at University ORT Uruguay | 21 years old | 🇺🇾 
 
-Here are some ideas to get you started:
+Welcome to my Github profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## A little bit about myself
+
+- Currently studying IT at University ORT
+- Love Backend developing but I'm quite versatile and extend my knowledge to many types of development (Web, Mobile, Frontend...)
+- Very fond of videogames, music (I love singing), art, F1, and many other hobbies!
+
+---
+
+## Technologies I'm familiarized with
+
+**Languages**
+![My Skills](https://skillicons.dev/icons?i=java,js,cs,css,html,bash,nestjs,ts)
+
+**Frameworks / Tools**
+![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotneteclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode)
+
+---
+
+## 📫 Connect With Me
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-martinatto-37ab36271%2F)
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=gmail&link=mailto%3Amm.mateomartinatto%40gmail.com)
