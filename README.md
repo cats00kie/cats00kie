@@ -26,5 +26,5 @@ Welcome to my Github profile.
 
 ## Connect With Me
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-martinatto-37ab36271%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-martinatto-37ab36271%2F)
 ![Static Badge](https://img.shields.io/badge/Email_me-white?logo=gmail&link=mailto%3Amm.mateomartinatto%40gmail.com)
