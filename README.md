@@ -22,15 +22,3 @@ Welcome to my Github profile.
 ### Frameworks / Tools
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode&perline=4)
 
----
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/mateo-martinatto-37ab36271/">
-    <object data="[path/to/image.jpg](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-martinatto-37ab36271%2F
-)">
-        <!-- Fallback content with a link -->
-        View the image on the [Example website](https://example.com)
-    </object>
-</a>
-![Static Badge](https://img.shields.io/badge/Email_me-white?logo=gmail&link=mailto%3Amm.mateomartinatto%40gmail.com)
