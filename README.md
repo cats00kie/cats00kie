@@ -13,14 +13,14 @@ Welcome to my Github profile.
 ## Technologies I'm familiarized with
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=java,js,cs,css,html,bash,nestjs,ts&perline=4)
+![My Skills](https://skillicons.dev/icons?i=java,js,cs,css,html,bash,nestjs,ts)
 
 ### Frameworks / Tools
-![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode&perline=4)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode)
 
 
 ## Connect with me!
 
-###You can contact me on:
+### You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
 [![Email](https://img.shields.io/badge/Email_me-white?logo=gmail)](mailto:mm.mateomartinatto@gmail.com)
