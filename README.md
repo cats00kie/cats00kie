@@ -8,7 +8,7 @@ Welcome to my Github profile.
 - I'm a 21 year old from Uruguay. Currently studying IT at University ORT.
 - I prefer Backend development but I'm quite versatile and extend my knowledge to many types of software development (Web, Mobile, Frontend...).
 - I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!   
-
+- For more information about my career you can visit my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
 
 ## Technologies I'm familiarized with
 
