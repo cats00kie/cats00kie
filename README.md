@@ -7,9 +7,7 @@ Welcome to my Github profile.
 
 - I'm a 21 year old from Uruguay. Currently studying IT at University ORT.
 - I prefer Backend development but I'm quite versatile and extend my knowledge to many types of software development (Web, Mobile, Frontend...).
-- I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!   
-- For more information about my career you can visit my 
-[![LinkedIn](https://skillicons.dev/icons?i=js,html,css,wasm)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
+- I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!
 
 ## Technologies I'm familiarized with
 
@@ -22,6 +20,6 @@ Welcome to my Github profile.
 
 ## Connect with me!
 
-### You can contact me on:
+### You can contact me/see more information about me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
 [![Email](https://img.shields.io/badge/Email_Me!-white?logo=gmail)](mailto:mm.mateomartinatto@gmail.com)
