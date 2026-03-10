@@ -5,18 +5,19 @@ Welcome to my Github profile.
 
 ## A little bit about myself
 
-#### I'm a 21 year old from Uruguay. Currently studying IT at University ORT.
-#### I prefer Backend development but I'm quite versatile and extend my knowledge to many types of software development (Web, Mobile, Frontend...).
-#### I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!   
-#### For more information about my career you can visit my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
+- I'm a 21 year old from Uruguay. Currently studying IT at University ORT.
+- I prefer Backend development but I'm quite versatile and extend my knowledge to many types of software development (Web, Mobile, Frontend...).
+- I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!   
+- For more information about my career you can visit my 
+[![LinkedIn](https://skillicons.dev/icons?i=js,html,css,wasm)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
 
 ## Technologies I'm familiarized with
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=java,js,cs,css,html,bash,nestjs,ts)
+![Languages](https://skillicons.dev/icons?i=java,js,cs,css,html,bash,nestjs,ts)
 
 ### Frameworks / Tools
-![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode)
+![FrameworksnTools](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode)
 
 
 ## Connect with me!
