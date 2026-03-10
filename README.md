@@ -21,6 +21,5 @@ Welcome to my Github profile.
 
 ## Connect with me!
 
-### You can contact me/see more information about me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
-[![Email](https://img.shields.io/badge/Email_Me!-white?logo=gmail)](mailto:mm.mateomartinatto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
+[![Email](https://img.shields.io/badge/Email_Me!-white?logo=gmail&style=for-the-badge)](mailto:mm.mateomartinatto@gmail.com)
