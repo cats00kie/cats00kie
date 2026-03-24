@@ -20,7 +20,7 @@ Welcome to my Github profile.
 ![FrameworksnTools](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bootstrap,docker,dotnet,eclipse,figma,git,idea,linux,maven,mongodb,mysql,nginx,postman,powershell,prisma,react,spring,tailwind,vite,vim,vscode&perline=8)
 
 
-## Connect with me!
+## Contact me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mateo-martinatto-37ab36271/)
 [![Email](https://img.shields.io/badge/Email_Me!-white?logo=gmail&style=for-the-badge)](mailto:mm.mateomartinatto@gmail.com)
