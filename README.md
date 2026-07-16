@@ -6,7 +6,7 @@ Welcome to my Github profile.
 ## A little bit about myself
 
 - I'm a 21 year old from Uruguay.
-- Currently studying IT at "Universidad ORT Uruguay".
+- Currently studying Cybersecurity at "Universidad ORT Uruguay".
 - I prefer Backend development but I'm quite versatile and extend my knowledge to many types of software development (like Web, Mobile, Frontend...).
 - I 💖 Videogames, Music, Art, Formula One, Singing, and many other hobbies!
 
